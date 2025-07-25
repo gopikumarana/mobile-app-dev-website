@@ -1,4 +1,5 @@
 <?php
+echo "hai";
 // Get the current page from URL parameter, default to 'home'
 $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 
